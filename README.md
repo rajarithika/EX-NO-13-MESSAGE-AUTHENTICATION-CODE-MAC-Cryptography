@@ -23,6 +23,9 @@ To implement MESSAGE AUTHENTICATION CODE(MAC)
    - The recipient compares the computed MAC with the received MAC. If they match, the message is authentic and unchanged.
 
 5. Security: The security of the MAC relies on the secret key \( K \) and the strength of the hash function \( H \), ensuring that an attacker cannot forge a valid MAC without knowledge of the key.
+   
+## NAME: RAJA RITHIKA
+## REG NO: 2305001029
 
 ## Program:
 ```
@@ -78,6 +81,8 @@ int main() {
 ```
 
 ## Output:
+<img width="874" height="364" alt="image" src="https://github.com/user-attachments/assets/874f3227-89c1-4ada-8bb0-0fb0d4813e9c" />
+
 
 
 ## Result:
